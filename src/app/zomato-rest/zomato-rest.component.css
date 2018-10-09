@@ -1,0 +1,31 @@
+.cuisine-style{
+    padding: 8px;
+}
+
+.padding-top-16{
+    padding-top: 16px;
+}
+.card
+{
+	background-color: #fff;
+	
+}
+img 
+{
+	width: 100%;
+	height: 250px;
+}
+
+.card-body
+{
+	padding:0.8rem;
+}
+body
+{
+	font-family: 'Roboto Slab', serif;
+	width:100%;
+	height:100%;
+	position: relative;
+	background-image: url(/../../../assets/Images/1.jpg);
+	background-size:cover;
+}
